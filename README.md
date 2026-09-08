@@ -1,2 +1,2 @@
 # BME2315_Module0
-Repository for Module 0. Python practice completed
+Repository for Module 0
